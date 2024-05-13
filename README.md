@@ -1,16 +1,16 @@
-### Hi there 👋
+### Bem vindo ao meu perfil 🐶
 
-<!--
-**Maycolod18/Maycolod18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Maycon Lemos
 
-Here are some ideas to get you started:
+- Estou realizando meus estudos no [Alura](https://www.alura.com.br)
+- Eu estou me desenvolvendo na linguagem JavaScript
+- Uso esse espaço para organização e compartilhamento dos projetos feitos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Você pode entrar em contato comigo 📧
+
+  @00001105270725sp@al.educacao.sp.gov.br
+
+  @mayconl_
+
+
+![](  https://media1.tenor.com/m/YsOShYBaf4QAAAAd/roblox-meme.gif)
